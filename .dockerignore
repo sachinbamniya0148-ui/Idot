@@ -1,0 +1,8 @@
+__pycache__
+*.pyc
+*.pyo
+.git
+*.zip
+.env
+start.sh
+gunicorn_config.py
